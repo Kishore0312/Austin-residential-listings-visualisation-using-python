@@ -6,7 +6,7 @@
 
 1. Declaring a variable ,read the dataset.
 2. Using tolist function list the longitudes and latitudes.
-3. Use the folium function top areas with highest numbber of listing is plotted.
+3. Use the folium function top areas with highest number of listing is plotted.
 
 ![Highest number of listing 1](https://user-images.githubusercontent.com/59074144/115548846-92cb8300-a2c5-11eb-898d-ac50b62a80c9.png)
 ![Highest number of listing 2](https://user-images.githubusercontent.com/59074144/115550192-2e112800-a2c7-11eb-9210-7a339661503e.png)

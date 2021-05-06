@@ -20,10 +20,4 @@
 
 ![Thematic map of the neighbourhood](https://user-images.githubusercontent.com/59074144/115550249-41bc8e80-a2c7-11eb-9d15-54bb1347a4b4.png)
 
-### Top 10 hosts by their total number of listings
-
-1. The calculated host listing has been sorted  and shown.
-
-![Top 10 hosts based on their total number of listings](https://user-images.githubusercontent.com/59074144/115551000-1d14e680-a2c8-11eb-929d-992e75ff1233.png)
-
 
